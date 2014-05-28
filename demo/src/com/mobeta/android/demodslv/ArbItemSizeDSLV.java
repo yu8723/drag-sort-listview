@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 public class ArbItemSizeDSLV extends ListActivity {
 
     private JazzAdapter adapter;
-
+//
     private ArrayList<JazzArtist> mArtists;
 
     private String[] mArtistNames;
